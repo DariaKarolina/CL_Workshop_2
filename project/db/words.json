@@ -1,0 +1,136 @@
+{
+    "fruits": [
+        {
+            "id": 0,
+            "wEN": "raspberry",
+            "wPL": "malina",
+            "wLT": "avietė"
+        },
+        {
+            "id": 1,
+            "wEN": "strawberry",
+            "wPL": "truskawka",
+            "wLT": "braškė"
+        },
+        {
+            "id": 2,
+            "wEN": "quince",
+            "wPL": "pigwa",
+            "wLT": "cidonija"
+        },
+        {
+            "id": 3,
+            "wEN": "date",
+            "wPL": "daktyl",
+            "wLT": "datulė"
+        },
+        {
+            "id": 4,
+            "wEN": "blackberry",
+            "wPL": "jeżyna",
+            "wLT": "gervougė"
+        },
+        {
+            "id": 5,
+            "wEN": "kiwi",
+            "wPL": "kiwi",
+            "wLT": "kivis"
+        },
+        {
+            "id": 6,
+            "wEN": "pear",
+            "wPL": "gruszka",
+            "wLT": "kriaušė"
+        },
+        {
+            "id": 7,
+            "wEN": "peach",
+            "wPL": "brzoskwinia",
+            "wLT": "persikas"
+        },
+        {
+            "id": 8,
+            "wEN": "apricot",
+            "wPL": "morela",
+            "wLT": "absikosas"
+        },
+        {
+            "id": 9,
+            "wEN": "wild strawberry",
+            "wPL": "poziomka",
+            "wLT": "žemuogė"
+        }
+    ],
+    "vegetables" : [
+        {
+            "id": 0,
+            "wEN": "artichoke",
+            "wPL": "karczoch",
+            "wLT": "arišokas"
+
+        },
+        {
+            "id": 1,
+            "wEN": "bean",
+            "wPL": "fasolka",
+            "wLT": "pupelės"
+
+        },
+        {
+            "id": 2,
+            "wEN": "potatoe",
+            "wPL": "ziemniak",
+            "wLT": "bulvė"
+
+        },
+        {
+            "id": 3,
+            "wEN": "pumpkin",
+            "wPL": "dynia",
+            "wLT": "moliūgos"
+
+        },
+        {
+            "id": 4,
+            "wEN": "parsley",
+            "wPL": "pietruszka",
+            "wLT": "petražolė"
+
+        },
+        {
+            "id": 5,
+            "wEN": "radish",
+            "wPL": "rzodkiewka",
+            "wLT": "ridikėlis"
+
+        },
+        {
+            "id": 6,
+            "wEN": "onion",
+            "wPL": "cebula",
+            "wLT": "svogūnas"
+
+        },
+        {
+            "id": 7,
+            "wEN": "garlic",
+            "wPL": "czosnek",
+            "wLT": "česnakas"
+
+        },
+        {
+            "id": 8,
+            "wEN": "olive",
+            "wPL": "oliwka",
+            "wLT": "alyvuogės"
+
+        },
+        {
+            "id": 9,
+            "wEN": "peas",
+            "wPL": "groszek",
+            "wLT": "žirnis"
+
+        }
+    ]
+}
